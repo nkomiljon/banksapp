@@ -3,7 +3,7 @@ package stats
 
 
 import (
-	"github/nkomiljon/bank/pkg/bank/types"
+	"github.com/nkomiljon/banksapp/pkg/bank/types"
 	"fmt"
 )
 
