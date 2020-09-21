@@ -2,7 +2,7 @@ package stats
 
 
 import (
-	"github.com/nkomiljon/bank/pkg/bank/types"
+	"github.com/nkomiljon/banksapp/pkg/bank/types"
 )
 
 
