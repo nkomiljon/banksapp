@@ -1,3 +1,3 @@
-module github/nkomiljon/banks
+module github/nkomiljon/banksapp
 
 go 1.15
